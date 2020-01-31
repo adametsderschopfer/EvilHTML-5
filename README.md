@@ -1,11 +1,6 @@
-# EvilHTML-5
+<h1>EvilHTML-5</h1>
+<p>Lightweight startup HTML5 template, based on Gulp.</p>
 
-<h1> 
-Test test
-</h1>
-<h2> 
-Test test
-</h2>
-<h3> 
-Test test
-</h3>
+<p>
+	<img src="https://drive.google.com/open?id=1NVcg4hjYaJqJXJiUWL9rpLh6o7EQ52bl" alt="Start HTML Template">
+</p>
