@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.css"],"names":[],"mappings":"AAAA;EACA,2BAAA;EACA,sBAAA;AACA;;AAEA;EACA,uBAAA;EACA,aAAA;EACA,gBAAA;AACA","file":"styles.min.css","sourcesContent":["body {\n  background: #000 !important;\n  color: #fff !important;\n}\n\n.text {\n  border: 1px dashed #fff;\n  padding: 10px;\n  margin-top: 10px;\n}\n"]}
